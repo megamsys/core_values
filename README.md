@@ -1,4 +1,6 @@
-# Our Core Values
+Best practices from DigiOcean, StatusPage.io
+
+# Our Core Values (Draft WIP) 
 ## HOW WE THINK AND CONDUCT OURSELVES
 
 ### Strive for simple and elegant solutions.
